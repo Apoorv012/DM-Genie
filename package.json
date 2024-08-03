@@ -1,0 +1,25 @@
+{
+  "name": "dm-genie",
+  "version": "1.0.0",
+  "description": "Your server's personal messenger. Send direct messages to everyone easily.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Apoorv012/DM-Genie.git"
+  },
+  "keywords": [
+    "administration",
+    "management",
+    "discord"
+  ],
+  "author": "Apoorv012",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Apoorv012/DM-Genie/issues"
+  },
+  "homepage": "https://github.com/Apoorv012/DM-Genie#readme"
+}
